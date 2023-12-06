@@ -14,4 +14,4 @@ Labor Force Situation in Indonesia
 based on 34 provinces in Indonesia
 
 ### Result
-You can see an explanation of the project at the following link [online](https://docs.google.com/presentation/d/1eeNPU-6iT_M_n_P4SxPk-pkYZS8XZTl1/edit?usp=sharing&ouid=105040934104808291339&rtpof=true&sd=true). and to see the dashboard results can be seen at the following link [online](https://lookerstudio.google.com/reporting/3cd74a5c-4872-4f4e-b9dc-85b2886db402)
+You can see an explanation of the project at the following link [online](https://docs.google.com/presentation/d/1eeNPU-6iT_M_n_P4SxPk-pkYZS8XZTl1/edit?usp=sharing&ouid=105040934104808291339&rtpof=true&sd=true). and to see the dashboard using google data studio/Looker. The results can be seen at the following link [online](https://lookerstudio.google.com/reporting/3cd74a5c-4872-4f4e-b9dc-85b2886db402)
